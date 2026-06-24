@@ -1,5 +1,5 @@
 ﻿{
-    "changelog":  "KK",
-    "url":  "https://github.com/termux-lin/sysoptimizer-updates/releases/download/v2.0.3/System_Optimizer.exe",
-    "version":  "2.0.3"
+    "changelog":  "Added Native RAM Purger and GPU Cache Cleaners",
+    "url":  "https://github.com/termux-lin/sysoptimizer-updates/releases/download/v2.0.4/System_Optimizer.exe",
+    "version":  "2.0.4"
 }
