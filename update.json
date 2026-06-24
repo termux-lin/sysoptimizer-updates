@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/termux-lin/sysoptimizer-updates/releases/download/v2.0.0/System_Optimizer.exe",
-  "changelog": "Initial release. Stable and optimized."
+  "version": "2.0.1",
+  "url": "https://github.com/termux-lin/sysoptimizer-updates/releases/download/v2.0.1/System_Optimizer.exe",
+  "changelog": "Testing auto-update system. New optimizations and bug fixes."
 }
