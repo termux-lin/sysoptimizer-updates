@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Un-ignore the update manifest
+!update.json
+
+# Un-ignore this .gitignore itself
+!.gitignore
+
+# Un-ignore README if you add one later
+!README.md
