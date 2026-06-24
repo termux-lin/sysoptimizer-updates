@@ -9,3 +9,6 @@
 
 # Un-ignore README if you add one later
 !README.md
+
+# Never push the GitHub token (ignored, not tracked)
+.github_token
